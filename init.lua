@@ -598,7 +598,6 @@ require('lazy').setup({
         -- But for many setups, the LSP (`ts_ls`) will work just fine
         -- ts_ls = {},
         bashls = {},
-        csharpier = {},
         docker_compose_language_service = {},
         docker_language_server = {},
         gh_actions_ls = {},
